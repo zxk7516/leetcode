@@ -1,0 +1,1 @@
+## show how i solve the easiest part of questions in leetcode.
